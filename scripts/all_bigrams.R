@@ -1,3 +1,6 @@
+#This is a script for running an MSCA and MICA analysis on annotated call sequences in
+# Meerkats, Hyraxes, Coaties, Hyenas and Sifaka
+
 
 library(gtools)
 library(stringr)
